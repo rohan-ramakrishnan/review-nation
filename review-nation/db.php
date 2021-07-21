@@ -2,9 +2,9 @@
 
 
 $servername = 'localhost';
-$dBUser = 'root';
-$dBPass = '';
-$dB = 'auth';
+$dBUser = '***********';
+$dBPass = '***********';
+$dB = 'id17278300_ratings';
 
 $conn = mysqli_connect($servername, $dBUser, $dBPass, $dB);
 
